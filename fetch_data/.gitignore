@@ -1,0 +1,38 @@
+# Django-related files
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+
+# Secret keys
+*.key
+
+# Development media files
+media/
+
+# Static files collected by Django
+staticfiles/
+
+# Virtual environment
+venv/
+env/
+myenv/
+
+# IDE files
+.idea/
+.vscode/
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Compiled Python bytecode
+*.pyc
+*.pyo
+__pycache__/
+
+# Other
+*.swp
+.DS_Store
